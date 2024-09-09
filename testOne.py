@@ -1,7 +1,7 @@
 a="test"
 b="t"
 
-def stringMerge(a,b):
+def stringMerge():
     return a+b;
 
-print(stringMerge(a,b))
+print(stringMerge())
